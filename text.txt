@@ -1,1 +1,14 @@
 created github account 
+firstly, git clone ( include link)
+after cloning, create a file
+add this file using git add( file name)
+now file is moved to staging area
+From stating area to working folder
+use, git commit -m "message"
+from working folder to git folder,
+use, git push origin main
+origin - link copied from GITHUB
+MAin - branch in GITHUB
+To move from GIT HUB repo to VS code,
+use, git pull
+to check status -  git status
